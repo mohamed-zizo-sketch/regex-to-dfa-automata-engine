@@ -1,0 +1,17 @@
+# NetBeans build and private configuration
+build/
+dist/
+nbproject/private/
+.netbeans_automatic_build
+.netbeans_update_resources
+
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE and OS files
+.DS_Store
+Thumbs.db
+*.log
